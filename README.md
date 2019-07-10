@@ -1,3 +1,3 @@
 # SeedProjectApi
-
-Project for RestFull Api
+ 
+Asp.NET Core Project for Restful Api
